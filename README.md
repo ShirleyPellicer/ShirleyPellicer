@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PYTHON, JAVA and SQL
 - 💞️ I’m looking to collaborate on Marketing Analytics and NLP Projects
 - 📫 How to reach me: Linkedin
-- ⚡ Fun fact: I collect maps and antique globes
+- ⚡ Fun fact: I read dictionnaries and encyclopedias, collect maps and antique globes
 
 <!---
 ShirleyPellicer/ShirleyPellicer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
